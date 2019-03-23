@@ -1,0 +1,11 @@
+C:\Users\leone\pruebaTecnica\Vehiculos\bin\Debug\netcoreapp2.2\Vehiculos.deps.json
+C:\Users\leone\pruebaTecnica\Vehiculos\bin\Debug\netcoreapp2.2\Vehiculos.runtimeconfig.json
+C:\Users\leone\pruebaTecnica\Vehiculos\bin\Debug\netcoreapp2.2\Vehiculos.runtimeconfig.dev.json
+C:\Users\leone\pruebaTecnica\Vehiculos\bin\Debug\netcoreapp2.2\Vehiculos.dll
+C:\Users\leone\pruebaTecnica\Vehiculos\bin\Debug\netcoreapp2.2\Vehiculos.pdb
+C:\Users\leone\pruebaTecnica\Vehiculos\obj\Debug\netcoreapp2.2\Vehiculos.csprojAssemblyReference.cache
+C:\Users\leone\pruebaTecnica\Vehiculos\obj\Debug\netcoreapp2.2\Vehiculos.csproj.CoreCompileInputs.cache
+C:\Users\leone\pruebaTecnica\Vehiculos\obj\Debug\netcoreapp2.2\Vehiculos.AssemblyInfoInputs.cache
+C:\Users\leone\pruebaTecnica\Vehiculos\obj\Debug\netcoreapp2.2\Vehiculos.AssemblyInfo.cs
+C:\Users\leone\pruebaTecnica\Vehiculos\obj\Debug\netcoreapp2.2\Vehiculos.dll
+C:\Users\leone\pruebaTecnica\Vehiculos\obj\Debug\netcoreapp2.2\Vehiculos.pdb
