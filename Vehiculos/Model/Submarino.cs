@@ -1,7 +1,8 @@
 using System;
-namespace Vehiculos.Model
+using LeonelCastaneda.Interfaz;
+namespace LeonelCastaneda.Model
 {
-    public abstract class Submarino : Vehiculos
+    public  class Submarino : Vehiculo, IBitacora
     {
         public Submarino() { }
         public Submarino(float velocidadMaxima, float velocidadMinima, string marca, string modelo, float profundidadMaxima, float profundidadMinima) :
@@ -28,6 +29,20 @@ namespace Vehiculos.Model
             
         }
 
+        public override void Encender(){
+
+        }
+        public override void Apagar(){
+
+        }
+        public void MostrarDetalle()
+        {
+
+        }
+        public override string ToString()
+        {
+            return $" {{ marca : {this.Marca}, modelo : {this.Modelo}, velocidadMaxima: {this.VelociadadMaxima}, velocidadMinima : {this.VelociadadMinima}, profundidadMaxima: {this.ProfundidadMaxima}}}";
+        }
     }
 
 }

@@ -9,3 +9,14 @@ C:\Users\leone\pruebaTecnica\Vehiculos\obj\Debug\netcoreapp2.2\Vehiculos.Assembl
 C:\Users\leone\pruebaTecnica\Vehiculos\obj\Debug\netcoreapp2.2\Vehiculos.AssemblyInfo.cs
 C:\Users\leone\pruebaTecnica\Vehiculos\obj\Debug\netcoreapp2.2\Vehiculos.dll
 C:\Users\leone\pruebaTecnica\Vehiculos\obj\Debug\netcoreapp2.2\Vehiculos.pdb
+C:\sabado\net\lab\PruebaTecnica1\Vehiculos\bin\Debug\netcoreapp2.2\Vehiculos.deps.json
+C:\sabado\net\lab\PruebaTecnica1\Vehiculos\bin\Debug\netcoreapp2.2\Vehiculos.runtimeconfig.json
+C:\sabado\net\lab\PruebaTecnica1\Vehiculos\bin\Debug\netcoreapp2.2\Vehiculos.runtimeconfig.dev.json
+C:\sabado\net\lab\PruebaTecnica1\Vehiculos\bin\Debug\netcoreapp2.2\Vehiculos.dll
+C:\sabado\net\lab\PruebaTecnica1\Vehiculos\bin\Debug\netcoreapp2.2\Vehiculos.pdb
+C:\sabado\net\lab\PruebaTecnica1\Vehiculos\obj\Debug\netcoreapp2.2\Vehiculos.csprojAssemblyReference.cache
+C:\sabado\net\lab\PruebaTecnica1\Vehiculos\obj\Debug\netcoreapp2.2\Vehiculos.csproj.CoreCompileInputs.cache
+C:\sabado\net\lab\PruebaTecnica1\Vehiculos\obj\Debug\netcoreapp2.2\Vehiculos.AssemblyInfoInputs.cache
+C:\sabado\net\lab\PruebaTecnica1\Vehiculos\obj\Debug\netcoreapp2.2\Vehiculos.AssemblyInfo.cs
+C:\sabado\net\lab\PruebaTecnica1\Vehiculos\obj\Debug\netcoreapp2.2\Vehiculos.dll
+C:\sabado\net\lab\PruebaTecnica1\Vehiculos\obj\Debug\netcoreapp2.2\Vehiculos.pdb

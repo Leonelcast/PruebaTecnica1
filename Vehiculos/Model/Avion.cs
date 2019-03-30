@@ -1,9 +1,10 @@
 using System;
-namespace Vehiculos.Model
+using LeonelCastaneda.Interfaz;
+namespace LeonelCastaneda.Model
 {
-    public abstract class Avion: Vehiculos
+    public class Avion: Vehiculo, IBitacora 
     {
-        public Avion(){}
+        public Avion():base(){}
         public Avion(float veloccidadMaxima, float velocidadMinima, string marca, string modelo, float alturaMaxima, float alturaMinima): 
         base(veloccidadMaxima, velocidadMinima, marca, modelo) 
         {
@@ -35,8 +36,22 @@ namespace Vehiculos.Model
         {
             
         }
+        public override void Encender(){
 
+        }
 
+        public override void Apagar()
+        {
+
+        }
+
+        public override string ToString()
+        {
+            return $" {{ marca : {this.Marca}, modelo : {this.Modelo}, velocidadMaxima: {this.VelociadadMaxima}, velocidadMinima : {this.VelociadadMinima}, alturaMaxima: {this.AlturaMaxima}, alturaMinima : {this.AlturaMinima} }}";
+        }
+        public  void MostrarDetalle(){
+           Console.WriteLine(this.ToString());
+        }
     }
 
 }

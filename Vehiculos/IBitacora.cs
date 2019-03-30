@@ -1,9 +1,9 @@
 using System;
 using Vehiculos;
-namespace IBitacora
+namespace LeonelCastaneda.Interfaz
 {
     public interface IBitacora
     {
-        
+        void MostrarDetalle();
     }
 }

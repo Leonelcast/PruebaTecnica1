@@ -1,13 +1,13 @@
 using System;
-namespace Vehiculos.Model
+namespace LeonelCastaneda.Model
 
 {
 
-    public abstract class Vehiculos
+    public abstract class Vehiculo
     {
-        public Vehiculos() { }
+        public Vehiculo() { }
 
-        public Vehiculos(float velocidadMaxima, float velocidadMinima, string marca, string modelo)
+        public Vehiculo(float velocidadMaxima, float velocidadMinima, string marca, string modelo)
         {
             VelociadadMaxima = velociadadMaxima;
             VelociadadMinima = velociadadMinima;
@@ -42,8 +42,8 @@ namespace Vehiculos.Model
             set { modelo = value; }
         }
 
-        public void Encender() { }
+        public abstract void Encender();
 
-        public void Apagar() { }
+        public abstract void Apagar();
     }
 }
